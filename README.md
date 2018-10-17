@@ -1,8 +1,8 @@
 # Mini Workshop 4.0 (Basic Desain X Basic Front End Web Development)
 
 ## Overview
-Uncover basic syntax c++ simple recipes to start learning c++ in this interactive, beginner-friendly session.
-Our speaker will share their experience in learning c++ and will guide you step-by-step to acquire the skills you need 
+Uncover basic Design and web development simple recipes to start learning c++ in this interactive, beginner-friendly session.
+Our speaker will share their experience in learning and will guide you step-by-step to acquire the skills you need 
 
 ## Basic Series
 Workshops in our BASIC series are tailored to casual programmers and non-programmers that are taking their first steps to learn programming. It assumes no prior knowledge or academic background, and attendees will be introduced to the beautiful art of writing code to create programs.
