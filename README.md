@@ -12,5 +12,5 @@ Note: Workshops in the BASIC series follow a structured course, and re-use many 
 ## Course Material
 
 * [Material](https://bit.ly/ToolsWWD1_IRC)
-* [Reference](https://www.w3schools.com/)
+* [References](https://www.w3schools.com/)
 * Direct Implementation For Design
