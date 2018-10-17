@@ -1,7 +1,7 @@
 # Mini Workshop 4.0 (Basic Desain X Basic Front End Web Development)
 
 ## Overview
-Uncover basic Design and web development simple recipes to start learning c++ in this interactive, beginner-friendly session.
+Uncover basic Design and web development simple recipes to start learning web developtmen in this interactive, beginner-friendly session.
 Our speaker will share their experience in learning and will guide you step-by-step to acquire the skills you need 
 
 ## Basic Series
